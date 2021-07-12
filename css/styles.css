@@ -1,0 +1,35 @@
+
+
+body{
+background-color: #B2B8A3;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+hr{
+border-style:none;
+border-top-style:dotted;
+border-color: grey;
+border-width: 5px;
+}
+
+img{
+  border-radius: 50%;
+height: 140px;
+ }
+
+/*****************class selector***************/
+.bottom{ line-height:0;
+  color: #343A40;
+  font-family: monospace;
+}
+
+.heading{
+  font-size: 50px;
+  color: #231E23;
+  font-family: 'Amita', cursive;
+  line-height: 20%;
+  width: 150%
+
+}
